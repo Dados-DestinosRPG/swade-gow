@@ -38,6 +38,6 @@
     }
   ],
   "url": "https://github.com/pedrualves/swade-gow",
-  "manifest": "https://raw.githubusercontent.com/pedrualves/swade-gow/main/module.json",
-  "download": "https://github.com/pedrualves/swade-gow/blob/main/cdz.zip"
+  "manifest": "https://raw.githubusercontent.com/Dados-DestinosRPG/swade-gow/main/module.json",
+  "download": "https://github.com/Dados-DestinosRPG/swade-gow/blob/main/cdz.zip"
 }
