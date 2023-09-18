@@ -1,0 +1,43 @@
+{
+  "id": "god-of-war",
+  "name": "Savage God of War",
+  "title": "God of War",
+  "description": "Minha adaptação das armas de god para swade",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "swade",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Pedro Alves",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "itens",
+      "label": "itens",
+      "path": "packs/itens",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "swade",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/pedrualves/swade-gow",
+  "manifest": "https://github.com/pedrualves/swade-gow/releases/download/1.0.0/module.json",
+  "download": "https://github.com/pedrualves/swade-gow/archive/refs/tags/1.0.0.zip"
+}
