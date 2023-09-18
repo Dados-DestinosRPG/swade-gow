@@ -38,6 +38,6 @@
     }
   ],
   "url": "https://github.com/pedrualves/swade-gow",
-  "manifest": "https://github.com/pedrualves/swade-gow/releases/download/1.0.0/module.json",
-  "download": "https://github.com/pedrualves/swade-gow/archive/refs/tags/1.0.0.zip"
+  "manifest": "https://raw.githubusercontent.com/pedrualves/swade-gow/main/module.json",
+  "download": "https://github.com/pedrualves/swade-gow/blob/main/cdz.zip"
 }
